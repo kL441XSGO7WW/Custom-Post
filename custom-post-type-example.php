@@ -1,6 +1,6 @@
 <?php
 
-/* Projects 123 Custom Post Type Start */
+/* Projects 123 XYZ Custom Post Type Start */
 
 add_action('init', 'projects_post_type');
 function projects_post_type() {
