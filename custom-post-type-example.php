@@ -71,7 +71,7 @@ function create_board_member_taxonomies() {
 		'rewrite'           => array( 'slug' => 'news-type-category' ),
 	);
 
-	register_taxonomy( 'news_type_category', array( 'newsroom' ), $args );
+	register_taxonomy( 'news_type_category', array( 'Test' ), $args );
 }
 
 /* Projects Custom Post Type End */
